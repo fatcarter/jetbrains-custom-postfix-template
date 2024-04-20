@@ -1,0 +1,4 @@
+## general templates ##
+.var : new var 
+  ANY -> const $varName$ = $expr$\
+  $END$\
